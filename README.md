@@ -1,2 +1,2 @@
 # Demo-app
-demo for git
+demo for git and it's uses.
